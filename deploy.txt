@@ -1,22 +1,5 @@
 INFO  Start processing
-INFO  Files loaded in 534 ms
-INFO  Deleted: archives/2018/page/2/index.html
-INFO  Deleted: archives/2018/06/index.html
-INFO  Deleted: archives/page/9/index.html
-INFO  Deleted: archives/2018/06/page/2/index.html
-INFO  Deleted: page/9/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次2/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次3/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次4/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次5/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次6/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次7/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次8/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次9/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次10/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次11/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次12/index.html
-INFO  Deleted: 2018/06/13/测试文章-最后一次13/index.html
+INFO  Files loaded in 708 ms
 INFO  Generated: content.json
 INFO  Generated: categories/index.html
 INFO  Generated: 2018/05/28/2018-5-27/index.html
@@ -37,7 +20,9 @@ INFO  Generated: page/5/index.html
 INFO  Generated: page/6/index.html
 INFO  Generated: page/7/index.html
 INFO  Generated: page/8/index.html
-INFO  20 files generated in 2.69 s
+INFO  Generated: archives/2018/06/index.html
+INFO  Generated: 2018/06/13/test1/index.html
+INFO  22 files generated in 2.74 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -326,27 +311,16 @@ warning: LF will be replaced by CRLF in slider.e37972.js.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
-[master 10a16e4] Site updated: 2018-06-13 02:18:20
- 37 files changed, 1079 insertions(+), 11132 deletions(-)
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\24110/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\24111/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\24112/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\24113/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2412/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2413/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2414/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2415/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2416/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2417/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2418/index.html"
- delete mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240-\346\234\200\345\220\216\344\270\200\346\254\2419/index.html"
- delete mode 100644 archives/2018/06/index.html
- delete mode 100644 archives/2018/06/page/2/index.html
- delete mode 100644 archives/2018/page/2/index.html
- delete mode 100644 archives/page/9/index.html
- rewrite content.json (76%)
- delete mode 100644 page/9/index.html
+warning: LF will be replaced by CRLF in 2018/06/13/test1/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in archives/2018/06/index.html.
+The file will have its original line endings in your working directory.
+[master d42718f] Site updated: 2018-06-13 02:22:03
+ 22 files changed, 1717 insertions(+), 677 deletions(-)
+ create mode 100644 2018/06/13/test1/index.html
+ create mode 100644 archives/2018/06/index.html
+ rewrite content.json (95%)
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
 To github.com:CherStone/CherStone.github.io.git
-   d628f1d..10a16e4  HEAD -> master
+   10a16e4..d42718f  HEAD -> master
 INFO  Deploy done: git
