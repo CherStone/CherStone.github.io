@@ -1,4 +1,2 @@
-[backup ff3d2cd] backup
- 4 files changed, 26 insertions(+), 33 deletions(-)
- rewrite gitcommit.txt (100%)
- create mode 100644 source/_posts/testtest3.md
+[backup 7625065] backup
+ 2 files changed, 12 insertions(+), 8 deletions(-)

@@ -1,5 +1,5 @@
 INFO  Start processing
-INFO  Files loaded in 928 ms
+INFO  Files loaded in 943 ms
 INFO  Generated: content.json
 INFO  Generated: about/index.html
 INFO  Generated: categories/index.html
@@ -163,12 +163,12 @@ INFO  Generated: slider.e37972.js
 INFO  Generated: main.0cf68a.css
 INFO  Generated: main.0cf68a.js
 INFO  Generated: mobile.992cbe.js
-INFO  163 files generated in 2.97 s
+INFO  163 files generated in 2.89 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
 INFO  Copying files from extend dirs...
-[master faef107] Site updated: 2018-06-12 21:32:04
- 1 file changed, 222 insertions(+), 222 deletions(-)
+On branch master
+nothing to commit, working tree clean
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
 INFO  Deploy done: git
