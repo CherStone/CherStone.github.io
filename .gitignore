@@ -8,6 +8,4 @@ public/
 push.bat
 push.php
 deploy.txt
-gitadd.txt
-gitcommit.txt
-gitpush.txt
+gitlog.txt

@@ -1,4 +1,0 @@
-warning: LF will be replaced by CRLF in deploy.txt.
-The file will have its original line endings in your working directory.
-warning: LF will be replaced by CRLF in source/_posts/测试文章-最后一次8.md.
-The file will have its original line endings in your working directory.
