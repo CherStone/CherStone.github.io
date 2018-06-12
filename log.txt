@@ -1,0 +1,20 @@
+
+C:\xampp\htdocs\CherStone.github.io>call hexo g  1>deploy.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call hexo d  1>>deploy.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git add -A .  1>gitadd.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git commit -m "backup"  1>gitcommit.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git push origin backup  1>gitpush.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call hexo g  1>deploy.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call hexo d  1>>deploy.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git add -A .  1>gitadd.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git commit -m "backup"  1>gitcommit.txt 
+
+C:\xampp\htdocs\CherStone.github.io>call git push origin backup  1>gitpush.txt 
