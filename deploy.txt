@@ -1,29 +1,29 @@
 INFO  Start processing
-INFO  Files loaded in 875 ms
+INFO  Files loaded in 1.06 s
 INFO  Generated: content.json
 INFO  Generated: categories/index.html
-INFO  Generated: 2018/06/13/测试文章2/index.html
+INFO  Generated: 2018/06/13/测试文章24/index.html
 INFO  Generated: archives/index.html
 INFO  Generated: archives/page/2/index.html
-INFO  Generated: archives/page/3/index.html
+INFO  Generated: archives/page/6/index.html
 INFO  Generated: archives/page/4/index.html
 INFO  Generated: archives/page/5/index.html
-INFO  Generated: archives/page/6/index.html
+INFO  Generated: archives/page/3/index.html
 INFO  Generated: archives/page/7/index.html
 INFO  Generated: archives/page/8/index.html
 INFO  Generated: archives/2018/index.html
-INFO  Generated: archives/2018/06/index.html
+INFO  Generated: archives/2018/page/2/index.html
 INFO  Generated: index.html
+INFO  Generated: archives/2018/06/index.html
 INFO  Generated: page/2/index.html
-INFO  Generated: page/3/index.html
+INFO  Generated: page/6/index.html
 INFO  Generated: page/4/index.html
 INFO  Generated: page/5/index.html
-INFO  Generated: page/6/index.html
+INFO  Generated: page/3/index.html
 INFO  Generated: page/7/index.html
 INFO  Generated: page/8/index.html
-INFO  Generated: archives/2018/page/2/index.html
-INFO  Generated: 2018/06/13/测试文章24/index.html
-INFO  23 files generated in 2.97 s
+INFO  Generated: 2018/06/13/测试文章456/index.html
+INFO  23 files generated in 3.12 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -178,6 +178,8 @@ warning: LF will be replaced by CRLF in 2018/06/13/测试文章/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in 2018/06/13/测试文章2/index.html.
 The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in 2018/06/13/测试文章24/index.html.
+The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in about/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/2015/12/index.html.
@@ -258,6 +260,8 @@ warning: LF will be replaced by CRLF in archives/2018/06/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/2018/index.html.
 The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in archives/2018/page/2/index.html.
+The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/page/2/index.html.
@@ -318,33 +322,13 @@ warning: LF will be replaced by CRLF in slider.e37972.js.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
-warning: LF will be replaced by CRLF in 2018/06/13/测试文章24/index.html.
+warning: LF will be replaced by CRLF in 2018/06/13/测试文章456/index.html.
 The file will have its original line endings in your working directory.
-warning: LF will be replaced by CRLF in archives/2018/page/2/index.html.
-The file will have its original line endings in your working directory.
-[master 383fe7d] Site updated: 2018-06-13 00:33:14
- 28 files changed, 846 insertions(+), 2904 deletions(-)
- delete mode 100644 2018/06/12/testtest/index.html
- delete mode 100644 2018/06/12/testtest2/index.html
- delete mode 100644 "2018/06/12/\346\265\213\350\257\225\346\226\207\347\253\2404/index.html"
- rename "2018/06/12/\346\265\213\350\257\225\346\226\207\347\253\2405/index.html" => "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240/index.html" (99%)
- rename "2018/06/12/\346\265\213\350\257\225\346\226\207\347\253\2402/index.html" => "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\2402/index.html" (99%)
- rename 2018/06/12/testtest3/index.html => "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\24024/index.html" (99%)
- rewrite content.json (96%)
-Host key verification failed.
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-FATAL Something's wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
-Error: Host key verification failed.
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-
-    at ChildProcess.<anonymous> (D:\htdocs\CherStone.github.io\node_modules\hexo-util\lib\spawn.js:37:17)
-    at ChildProcess.emit (events.js:182:13)
-    at ChildProcess.cp.emit (D:\htdocs\CherStone.github.io\node_modules\cross-spawn\lib\enoent.js:40:29)
-    at maybeClose (internal/child_process.js:961:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:248:5)
+[master a6aed1f] Site updated: 2018-06-13 00:53:58
+ 23 files changed, 1399 insertions(+), 713 deletions(-)
+ create mode 100644 "2018/06/13/\346\265\213\350\257\225\346\226\207\347\253\240456/index.html"
+ rewrite content.json (95%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
+To github.com:CherStone/CherStone.github.io.git
+   faef107..a6aed1f  HEAD -> master
+INFO  Deploy done: git
