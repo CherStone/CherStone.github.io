@@ -1,1 +1,0 @@
-fatal: bad config line 14 in file .git/config
