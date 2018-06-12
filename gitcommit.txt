@@ -1,0 +1,13 @@
+[backup f60e69b] backup
+ 11 files changed, 63 insertions(+), 5 deletions(-)
+ create mode 100644 deploy.txt
+ create mode 100644 gitadd.txt
+ create mode 100644 gitcommit.txt
+ create mode 100644 gitpush.txt
+ create mode 100644 log.txt
+ create mode 100644 source/_posts/testtest.md
+ create mode 100644 source/_posts/testtest2.md
+ delete mode 100644 "source/_posts/\346\265\213\350\257\225\346\226\207\347\253\240.md"
+ create mode 100644 "source/_posts/\346\265\213\350\257\225\346\226\207\347\253\2402.md"
+ create mode 100644 "source/_posts/\346\265\213\350\257\225\346\226\207\347\253\2404.md"
+ create mode 100644 "source/_posts/\346\265\213\350\257\225\346\226\207\347\253\2405.md"
