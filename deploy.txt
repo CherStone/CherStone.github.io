@@ -1,8 +1,8 @@
 INFO  Start processing
-INFO  Files loaded in 708 ms
+INFO  Files loaded in 728 ms
 INFO  Generated: content.json
 INFO  Generated: categories/index.html
-INFO  Generated: 2018/05/28/2018-5-27/index.html
+INFO  Generated: 2018/06/13/test1/index.html
 INFO  Generated: archives/index.html
 INFO  Generated: archives/page/2/index.html
 INFO  Generated: archives/page/3/index.html
@@ -12,6 +12,7 @@ INFO  Generated: archives/page/6/index.html
 INFO  Generated: archives/page/7/index.html
 INFO  Generated: archives/page/8/index.html
 INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/2018/06/index.html
 INFO  Generated: index.html
 INFO  Generated: page/2/index.html
 INFO  Generated: page/3/index.html
@@ -20,9 +21,8 @@ INFO  Generated: page/5/index.html
 INFO  Generated: page/6/index.html
 INFO  Generated: page/7/index.html
 INFO  Generated: page/8/index.html
-INFO  Generated: archives/2018/06/index.html
-INFO  Generated: 2018/06/13/test1/index.html
-INFO  22 files generated in 2.74 s
+INFO  Generated: 2018/06/13/test2/index.html
+INFO  22 files generated in 2.83 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -173,6 +173,8 @@ warning: LF will be replaced by CRLF in 2018/05/27/我的臭老哥/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in 2018/05/28/2018-5-27/index.html.
 The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in 2018/06/13/test1/index.html.
+The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in about/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/2015/12/index.html.
@@ -249,6 +251,8 @@ warning: LF will be replaced by CRLF in archives/2018/04/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/2018/05/index.html.
 The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in archives/2018/06/index.html.
+The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/2018/index.html.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in archives/index.html.
@@ -311,16 +315,13 @@ warning: LF will be replaced by CRLF in slider.e37972.js.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
-warning: LF will be replaced by CRLF in 2018/06/13/test1/index.html.
+warning: LF will be replaced by CRLF in 2018/06/13/test2/index.html.
 The file will have its original line endings in your working directory.
-warning: LF will be replaced by CRLF in archives/2018/06/index.html.
-The file will have its original line endings in your working directory.
-[master d42718f] Site updated: 2018-06-13 02:22:03
- 22 files changed, 1717 insertions(+), 677 deletions(-)
- create mode 100644 2018/06/13/test1/index.html
- create mode 100644 archives/2018/06/index.html
+[master 3dbb1fa] Site updated: 2018-06-13 02:23:28
+ 22 files changed, 1363 insertions(+), 677 deletions(-)
+ create mode 100644 2018/06/13/test2/index.html
  rewrite content.json (95%)
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
 To github.com:CherStone/CherStone.github.io.git
-   10a16e4..d42718f  HEAD -> master
+   d42718f..3dbb1fa  HEAD -> master
 INFO  Deploy done: git
