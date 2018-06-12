@@ -1,10 +1,11 @@
 INFO  Start processing
-INFO  Files loaded in 1.03 s
+INFO  Files loaded in 928 ms
 INFO  Generated: content.json
 INFO  Generated: about/index.html
 INFO  Generated: categories/index.html
-INFO  Generated: tags/index.html
 INFO  Generated: sample-page/index.html
+INFO  Generated: tags/index.html
+INFO  Generated: 2018/06/12/testtest3/index.html
 INFO  Generated: 2018/06/12/testtest2/index.html
 INFO  Generated: 2018/06/12/testtest/index.html
 INFO  Generated: 2018/06/12/测试文章2/index.html
@@ -158,17 +159,16 @@ INFO  Generated: img/default-skin.png
 INFO  Generated: img/headimg.jpg
 INFO  Generated: img/preloader.gif
 INFO  Generated: img/scrollbar_arrow.png
-INFO  Generated: 2018/06/12/testtest3/index.html
 INFO  Generated: slider.e37972.js
 INFO  Generated: main.0cf68a.css
 INFO  Generated: main.0cf68a.js
 INFO  Generated: mobile.992cbe.js
-INFO  163 files generated in 2.96 s
+INFO  163 files generated in 2.97 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
 INFO  Copying files from extend dirs...
-[master 5b20ee1] Site updated: 2018-06-12 21:30:44
- 23 files changed, 1627 insertions(+), 941 deletions(-)
- create mode 100644 2018/06/12/testtest3/index.html
- rewrite content.json (97%)
+[master faef107] Site updated: 2018-06-12 21:32:04
+ 1 file changed, 222 insertions(+), 222 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
+INFO  Deploy done: git
