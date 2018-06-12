@@ -7,3 +7,7 @@ public/
 .deploy*/
 push.bat
 push.php
+deploy.txt
+gitadd.txt
+gitcommit.txt
+gitpush.txt
