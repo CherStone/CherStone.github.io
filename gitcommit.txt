@@ -1,0 +1,6 @@
+[backup 28003a0] "backup"
+ 5 files changed, 28 insertions(+), 58 deletions(-)
+ delete mode 100644 gitcommit.txt
+ delete mode 100644 gitpush.txt
+ delete mode 100644 path.txt
+ create mode 100644 "source/_posts/\346\265\213\350\257\225\346\226\207\347\253\240456.md"
