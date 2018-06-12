@@ -1,0 +1,1 @@
+start cmd /c "D:\CherStone.github.io\push.bat"
