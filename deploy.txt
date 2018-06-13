@@ -1,6 +1,6 @@
 INFO  Start processing
-INFO  Files loaded in 901 ms
-INFO  0 files generated in 2.97 s
+INFO  Files loaded in 636 ms
+INFO  0 files generated in 2.81 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
