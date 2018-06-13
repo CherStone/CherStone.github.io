@@ -1,29 +1,6 @@
 INFO  Start processing
-INFO  Files loaded in 652 ms
-INFO  Deleted: archives/2018/06/index.html
-INFO  Deleted: 2018/06/13/test1/index.html
-INFO  Deleted: 2018/06/13/test2/index.html
-INFO  Generated: content.json
-INFO  Generated: categories/index.html
-INFO  Generated: 2018/05/28/2018-5-27/index.html
-INFO  Generated: archives/index.html
-INFO  Generated: archives/page/2/index.html
-INFO  Generated: archives/page/3/index.html
-INFO  Generated: archives/page/4/index.html
-INFO  Generated: archives/page/5/index.html
-INFO  Generated: archives/page/6/index.html
-INFO  Generated: archives/page/7/index.html
-INFO  Generated: archives/page/8/index.html
-INFO  Generated: archives/2018/index.html
-INFO  Generated: index.html
-INFO  Generated: page/2/index.html
-INFO  Generated: page/3/index.html
-INFO  Generated: page/4/index.html
-INFO  Generated: page/5/index.html
-INFO  Generated: page/6/index.html
-INFO  Generated: page/7/index.html
-INFO  Generated: page/8/index.html
-INFO  20 files generated in 2.55 s
+INFO  Files loaded in 901 ms
+INFO  0 files generated in 2.97 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -312,13 +289,8 @@ warning: LF will be replaced by CRLF in slider.e37972.js.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
-[master c905284] Site updated: 2018-06-13 02:27:11
- 23 files changed, 713 insertions(+), 2439 deletions(-)
- delete mode 100644 2018/06/13/test1/index.html
- delete mode 100644 2018/06/13/test2/index.html
- delete mode 100644 archives/2018/06/index.html
- rewrite content.json (74%)
+On branch master
+nothing to commit, working tree clean
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
-To github.com:CherStone/CherStone.github.io.git
-   3dbb1fa..c905284  HEAD -> master
+Everything up-to-date
 INFO  Deploy done: git
