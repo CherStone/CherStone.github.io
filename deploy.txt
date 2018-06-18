@@ -301,3 +301,7 @@ warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
 [master 7217fdf] Site updated: 2018-06-19 00:11:36
  6 files changed, 7 insertions(+), 7 deletions(-)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
+To github.com:CherStone/CherStone.github.io.git
+   f1ffe19..7217fdf  HEAD -> master
+INFO  Deploy done: git
