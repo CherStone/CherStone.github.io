@@ -1,6 +1,6 @@
 INFO  Start processing
-INFO  Files loaded in 728 ms
-INFO  0 files generated in 3.23 s
+INFO  Files loaded in 732 ms
+INFO  0 files generated in 3.31 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -298,5 +298,6 @@ The file will have its original line endings in your working directory.
 On branch master
 nothing to commit, working tree clean
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
-Everything up-to-date
+To github.com:CherStone/CherStone.github.io.git
+ + 94570d1...7e41f0b HEAD -> master (forced update)
 INFO  Deploy done: git
