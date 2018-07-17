@@ -1,6 +1,28 @@
 INFO  Start processing
-INFO  Files loaded in 732 ms
-INFO  0 files generated in 3.31 s
+INFO  Files loaded in 659 ms
+INFO  Generated: content.json
+INFO  Generated: categories/index.html
+INFO  Generated: 2018/07/01/2018.7.1/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/page/3/index.html
+INFO  Generated: archives/page/4/index.html
+INFO  Generated: archives/page/5/index.html
+INFO  Generated: archives/page/6/index.html
+INFO  Generated: archives/page/7/index.html
+INFO  Generated: archives/page/8/index.html
+INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/2018/07/index.html
+INFO  Generated: index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: page/3/index.html
+INFO  Generated: page/4/index.html
+INFO  Generated: page/5/index.html
+INFO  Generated: page/6/index.html
+INFO  Generated: page/7/index.html
+INFO  Generated: page/8/index.html
+INFO  Generated: 2018/07/18/2018.7.18/index.html
+INFO  22 files generated in 2.64 s
 INFO  Deploying: git
 INFO  Clearing .deploy_git folder...
 INFO  Copying files from public folder...
@@ -295,9 +317,13 @@ warning: LF will be replaced by CRLF in slider.e37972.js.
 The file will have its original line endings in your working directory.
 warning: LF will be replaced by CRLF in tags/index.html.
 The file will have its original line endings in your working directory.
-On branch master
-nothing to commit, working tree clean
+warning: LF will be replaced by CRLF in 2018/07/18/2018.7.18/index.html.
+The file will have its original line endings in your working directory.
+[master 6d044ee] Site updated: 2018-07-18 00:37:40
+ 22 files changed, 1360 insertions(+), 674 deletions(-)
+ create mode 100644 2018/07/18/2018.7.18/index.html
+ rewrite content.json (97%)
 Branch 'master' set up to track remote branch 'master' from 'git@github.com:CherStone/CherStone.github.io.git'.
 To github.com:CherStone/CherStone.github.io.git
- + 94570d1...7e41f0b HEAD -> master (forced update)
+   7e41f0b..6d044ee  HEAD -> master
 INFO  Deploy done: git
